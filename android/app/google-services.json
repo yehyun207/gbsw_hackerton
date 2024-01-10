@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "768268579165",
+    "project_id": "vegin-fd329",
+    "storage_bucket": "vegin-fd329.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768268579165:android:ece8442ee998e1a96838b4",
+        "android_client_info": {
+          "package_name": "com.example.vegin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3lw6Zse1K1YpR71Nwau6fgojTVklpgLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
