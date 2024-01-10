@@ -19,7 +19,7 @@ publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 version: 1.0.0+1
 
 environment:
-  sdk: '>=3.2.3 <4.0.0'
+  sdk: '>=3.2.0<4.0.0'
 
 # Dependencies specify other packages that your package needs in order to work.
 # To automatically upgrade your package dependencies to the latest versions
@@ -38,6 +38,8 @@ dependencies:
   firebase_core: ^2.24.2
   firebase_auth: ^4.16.0
   firebase_database: ^10.4.0
+  carousel_slider: ^4.2.1
+  url_launcher: ^6.2.3
 
 dev_dependencies:
   flutter_test:
@@ -62,10 +64,54 @@ flutter:
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
-  # assets:
-  #   - images/a_dot_burr.jpeg
-  #   - images/a_dot_ham.jpeg
-
+  assets:
+    - assets/leaf.png
+    - assets/img1.png
+    - assets/img2.png
+    - assets/img3.png
+    - assets/food.png
+    - assets/cloth.png
+    - assets/lifeitem.png
+    - assets/beauty.png
+    - assets/user.png
+    - assets/globe.png
+    - assets/home.png
+    - assets/search.png
+    - assets/person.png
+    - assets/homecontent1.png
+    - assets/homecontent2.png
+    - assets/beauty1.png
+    - assets/beauty2.png
+    - assets/beauty3.png
+    - assets/beauty4.png
+    - assets/beauty5.png
+    - assets/beauty6.png
+    - assets/back.png
+    - assets/cloth1.png
+    - assets/cloth2.png
+    - assets/cloth3.png
+    - assets/cloth4.png
+    - assets/cloth5.png
+    - assets/cloth6.png
+    - assets/food1.png
+    - assets/food2.png
+    - assets/food3.png
+    - assets/food4.png
+    - assets/food5.png
+    - assets/food6.png
+    - assets/item1.png
+    - assets/item2.png
+    - assets/item3.png
+    - assets/item4.png
+    - assets/item5.png
+    - assets/item6.png
+    - assets/purchase1.png
+    - assets/purchase2.png
+    - assets/purchase3.png
+    - assets/purchase4.png
+    - assets/mypage.png
+    - assets/purchase.png
+    - assets/logo.png
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
 
